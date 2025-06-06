@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anthony Cui
 
-💻 Software Engineer | Python, React, Node.js, TypeScript
+💻 Software Engineer | Python, React, Node.js, TypeScript  
 🎓 **MEng in ECE** @ University of Toronto (CGPA: 3.97/4.0)  
 🎓 **BASc in Mechatronics Engineering** @ University of Waterloo (CGPA: 86.63/100)  
 🌐 Visit my portfolio [here](https://yuanlong-anthony-cui.netlify.app/career/)
@@ -37,13 +37,13 @@
 - 🎖️ President’s Scholarship of Distinction, University of Waterloo
 - 📚 Dean’s Honour List, University of Waterloo
 - 🌐 President’s International Experience Award, University of Waterloo
-- 🌟 3 Excellent + 1 Outstanding employer evaluations during undergrad co-ops
+- 🌟 3 Excellent + 1 Outstanding employer evaluations from internships
 
 ---
 
 ## 📫 Let’s Connect!
 
-- 📧 Email: yuanlong.cui@outlook.com  
+- 📧 [Email](yuanlong.cui@outlook.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/yuanlong-tony-cui)  
 - 🧠 [Blog](https://yuanlong-anthony-cui.netlify.app/)  
 - 🧑‍💻 [GitHub](https://github.com/Yuanlong-Tony-Cui)
